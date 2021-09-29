@@ -7,6 +7,7 @@ Labor Materialien für der InfM + EIM Kurs "Data Mining"
 * speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
 ## Woche 1
+Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data Science" im SS21 gehört haben, kennen die Pythoneinführung bereits und werden hier nichts neues erfahren.
 
 ### Labor
 * [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Python_Tutorial/00_Jupyter-Intro.ipynb)
@@ -20,7 +21,7 @@ Labor Materialien für der InfM + EIM Kurs "Data Mining"
 
 
 ### Aufgaben
-**NOTE: upload your solution in Moodle by noon, Thursday the week after the lab seesion**
+**HINWEIS: Abgabe per Moodle bis 24 Uhr, Donnerstag in der Woche nach dem Labor**
 
 * [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-1)
 
