@@ -28,5 +28,5 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ## Woche 2
 
 ### Vorlesung
-* [Data Collection](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Data_Collection.ipynb)
-* [Data Storrage](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Data_Storrage.ipynb)
+* [Data Collection](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lecture_Data_Collection.ipynb)
+* [Data Storage](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lecture_Data_Storage.ipynb)
