@@ -30,3 +30,12 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Vorlesung
 * [Data Collection](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lecture_Data_Collection.ipynb)
 * [Data Storage](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lecture_Data_Storage.ipynb)
+
+### Lab
+* [Pandas Intro](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_01_Intro.ipynb)
+* [Pandas Data Frames](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_02_DataFrame.ipynb)
+* [Pandas IO](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_03_IO.ipynb)
+* [Pandas Missing Data](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_04_MissingData.ipynb)
+* [Pandas GroupBy](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_05_Group_by.ipynb)
+* [Pandas Join](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_06_MergeandJoin.ipynb)
+* [Pandas Reshape](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_pandas_07_reshape.ipynb) 
