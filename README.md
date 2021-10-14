@@ -44,4 +44,4 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [BeautifulSoup -> Pandas](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_Scraping.ipynb)
 
 ### Aufgaben
-* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assignment_2.1.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-2)
+* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assingment_2.1.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-2)
