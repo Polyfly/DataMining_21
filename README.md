@@ -23,7 +23,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 **HINWEIS: Abgabe per Moodle bis 24 Uhr, Donnerstag in der Woche nach dem Labor**
 
-* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-1)
+* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Solution-1.ipyn)
 
 ## Woche 2
 
