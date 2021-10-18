@@ -46,7 +46,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 * [Aufgabe 2.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assingment_2.1.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-2)
 
-## Woche 2
+## Woche 3
 
 ### Vorlesung
 * [Tensors and Plotting](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Lecture_03_02_Tensors_and_Plotting.ipynb)
