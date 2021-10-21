@@ -23,7 +23,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 **HINWEIS: Abgabe per Moodle bis 24 Uhr, Donnerstag in der Woche nach dem Labor**
 
-* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-1)
+* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_1/Solution-1.ipynb)
 
 ## Woche 2
 
@@ -45,3 +45,17 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgaben
 * [Aufgabe 2.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assingment_2.1.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-2)
+
+## Woche 3
+
+### Vorlesung
+* [Tensors and Plotting](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Lecture_03_02_Tensors_and_Plotting.ipynb)
+
+### Lab
+* [NumPy Tutorial](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Lab_01_Numpy.ipynb)
+* [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb)
+ 
+
+### Aufgaben
+* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-3)
+* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-3)
