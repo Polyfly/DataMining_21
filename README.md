@@ -72,7 +72,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgabe
 * [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Assignment_face_recognition.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-4)
 
-## Woche 4
+## Woche 5
 
 ### Vorlesung
 * [K-Means Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lecture_K-Means_Demo.ipynb)
