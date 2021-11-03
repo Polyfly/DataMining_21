@@ -76,7 +76,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Vorlesung
 * [K-Means Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lecture_K-Means_Demo.ipynb)
-* [Spectral Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lecture_Spectral_Demo.ipynb)
+* [Spectral Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lecture_Spectral_Demo .ipynb)
 
 ### Labor
 * [Clustering MNIST](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lab-Clustering-MNIST.ipynb) 
