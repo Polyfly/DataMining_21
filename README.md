@@ -44,7 +44,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [BeautifulSoup -> Pandas](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Lab_Scraping.ipynb)
 
 ### Aufgaben
-* [Aufgabe 2.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assingment_2.1.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-2)
+* [Aufgabe 2.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Assingment_2.1.ipynb) -> [Solution]((https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_2/Solution_2.1.ipynb)
 
 ## Woche 3
 
@@ -57,8 +57,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
  
 
 ### Aufgaben
-* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-3)
-* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-3)
+* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.1_solution.ipynb)
+* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.2_Solution.ipynb)
 
 
 ## Woche 4
