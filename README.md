@@ -84,3 +84,15 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgabe
 * [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Assignment_Clustering_I.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-5)
 
+## Woche 6
+
+### Vorlesung
+* [Agglomarative Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_K-Means_Demo.ipynb)
+* [DB-Scan Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_Spectral_Demo.ipynb)
+* [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_Spectral_Demo.ipynb)
+* 
+### Labor
+* NN
+* 
+### Aufgabe
+* NN
