@@ -70,7 +70,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Eigenfaces : Face Recognition](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Lab_face_recognition.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Lab_face_recognition-solution.ipynb)
 
 ### Aufgabe
-* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Assignment_face_recognition.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-4)
+* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Assignment_face_recognition.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_4/Assignment_face_recognition-solution.ipynb)
 
 ## Woche 5
 
@@ -87,10 +87,10 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ## Woche 6
 
 ### Vorlesung
-* [Agglomarative Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_K-Means_Demo.ipynb)
-* [DB-Scan Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_Spectral_Demo.ipynb)
-* [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lecture_Spectral_Demo.ipynb)
-* 
+* [Agglomarative Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Agg-Clustering-Demo.ipynb)
+* [DB-Scan Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/DBScan-Demo.ipynb)
+* [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Mean-Shift-Demo.ipynb)
+ 
 ### Labor
 * NN
 * 
