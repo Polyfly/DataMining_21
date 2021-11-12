@@ -92,7 +92,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Mean-Shift-Demo.ipynb)
  
 ### Labor
-* NN
-* 
+* [Model Selection and Pipelines](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Lab_ModelSelection_and_Pipelines.ipynb) 
+
+
 ### Aufgabe
-* NN
+*  [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Assignment_6_Clustering.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-6)
