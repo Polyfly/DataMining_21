@@ -97,3 +97,9 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgabe
 *  [Aufgabe 6.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Assignment_6_Clustering.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-6)
+
+## Woche 7
+
+### Labor
+* [Keras Tutorial](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_7/keras_intro.ipynb) 
+* [Tensoflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.71610&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
