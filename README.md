@@ -105,6 +105,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Tensoflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.71610&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ## Woche 8
+**HINWEIS:** für AutoEncoder Beispiele rechnent man am besten auf der GPU -> in Colab: runtime->change runtime type->GPU 
 
 ### Vorlesung
 * [Autoencoder demo](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Lecture_autoencoder-denoising.ipynb)
