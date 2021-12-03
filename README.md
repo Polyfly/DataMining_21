@@ -115,7 +115,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 
 ## Woche 9
-**HINWEIS:** für AutoEncoder Beispiele rechnent man am besten auf der GPU -> in Colab: runtime->change runtime type->GPU 
+**HINWEIS:**  GPU nicht vergessen -> in Colab: runtime->change runtime type->GPU 
 ### Vorlesung
 * [FacialGAN GitHub+paper](https://github.com/cc-hpc-itwm/FacialGAN), [Video](https://www.youtube.com/watch?v=N4jRSNKPB0s)
 * [Collection of GAN architectures in KERAS](https://github.com/eriklindernoren/Keras-GAN)
