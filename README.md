@@ -82,7 +82,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Clustering MNIST](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Lab-Clustering-MNIST.ipynb) 
 
 ### Aufgabe
-* [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Assignment_Clustering_I.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-5)
+* [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_5/Assignment_Clustering_I.ipynb) -> [Lösung](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-5)
 
 ## Woche 6
 
@@ -96,7 +96,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 
 ### Aufgabe
-*  [Aufgabe 6.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Assignment_6_Clustering.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-6)
+*  [Aufgabe 6.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_6/Assignment_6_Clustering.ipynb) -> [Lösung](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-6)
 
 ## Woche 7
 
@@ -111,7 +111,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Autoencoder demo](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Lecture_autoencoder-denoising.ipynb)
 
 ### Aufgabe
-*  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-8)
+*  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb) -> [Lösung](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-8)
 
 
 ## Woche 9
