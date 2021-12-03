@@ -110,7 +110,20 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Vorlesung
 * [Autoencoder demo](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Lecture_autoencoder-denoising.ipynb)
 
+### Aufgabe
+*  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-8)
+
+
+## Woche 9
+**HINWEIS:** für AutoEncoder Beispiele rechnent man am besten auf der GPU -> in Colab: runtime->change runtime type->GPU 
+### Vorlesung
+* [FacialGAN GitHub+paper](https://github.com/cc-hpc-itwm/FacialGAN), [Video](https://www.youtube.com/watch?v=N4jRSNKPB0s)
+* [Collection of GAN architectures in KERAS](https://github.com/eriklindernoren/Keras-GAN)
+
+### Lab
+* [VAE example](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_9/vae.ipynb)
+* [DCGAN example](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_9/dcgan.ipynb)
  
 
 ### Aufgabe
-*  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-8)
+*  [Aufgabe 9.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_9/Assignment_9.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-9)
