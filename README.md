@@ -133,7 +133,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Lab
 * [NetworkX Tutorial](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/NetworkX_Tutorial.ipynb)
-* [UseCase I: Social Media](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/Network_Usecase.ipynb)
+* [UseCase I: Social Media - find influencers](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/Network_Usecase.ipynb)
 * [UseCase II: Node2Vec for Movie recommondation](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/node2vec_movielens.ipynb) 
 
 ### Aufgabe
