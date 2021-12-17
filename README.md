@@ -139,7 +139,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgabe
 *  [GenSim Library Docs](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
 *  [GenSIM Doc2Vec Example](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/gensim_doc2vec.ipynb)
-*  [Aufgabe 10.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/Assignment_10.ipynb) -> [Abgabe im Moodle](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5599#section-10)
+*  [Aufgabe 10.1](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/Assignment_10.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_10/Assignment_10_solution.ipynb)
 
 ## Woche 11
 
